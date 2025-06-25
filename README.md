@@ -2,6 +2,8 @@
 
 This repository implements a full end-to-end pipeline to predict tennis match outcomes using historical match data, player metadata, and rankings.
 
+[Data Link](https://www.kaggle.com/datasets/guillemservera/tennis)
+
 ## Project structure
 
 ```
